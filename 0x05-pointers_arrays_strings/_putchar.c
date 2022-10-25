@@ -1,5 +1,5 @@
 #include <main.h>
-
+#include <stdio.h>
 /**
  * _putchar - writes character c to stdout
  * @c: char to be printed
